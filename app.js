@@ -9,8 +9,8 @@ var ctrlcmd=process.argv[3];
 
 var roon = new RoonApi({
     extension_id:        'com.vernaillen.roon.test',
-    display_name:        "Wouter's First Roon API Test",
-    display_version:     "1.0.0",
+    display_name:        "Roon API Test",
+    display_version:     "0.0.1",
     publisher:           'Wouter Vernaillen',
     email:               'wouter@vernaillen.com',
     website:             'https://github.com/vernaillen/roon-extension-test',
