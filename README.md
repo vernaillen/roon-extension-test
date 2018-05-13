@@ -12,4 +12,3 @@ After that you can send ctrl commands to Roon: node app.js [zone] [ctrl]
 
 e.g.:
 node app.js LivingRoom play
-node app.js LivingRoom stop
